@@ -10,8 +10,15 @@ It helps businesses analyze sales data and identify key patterns to improve deci
 🖼 Dashboard Preview
 
 - Sales Overview Dashboard
+  <img width="1282" height="716" alt="Screenshot1" src="https://github.com/user-attachments/assets/8d083c35-69b2-497d-ac14-1e5e4d4501b2" />
+
+
 
 - Customer Analysis Dashboard
+  
+  
+<img width="1285" height="713" alt="Screenshot2" src="https://github.com/user-attachments/assets/8389213e-1750-4f37-9879-09494e107aa9" />
+
 
 
 📊 Key Performance Indicators (KPIs)
