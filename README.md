@@ -1,4 +1,4 @@
-🛒 Online Sales Dashboard — Power BI 
+🛒 Online Sales Dashboard — Power BI--The objective of this project was to analyze transactional retail data and provide insights into sales trends, customer behavior, and product performance, helping businesses make more informed commercial decisions.
 
 📊 Project Overview
 
